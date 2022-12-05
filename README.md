@@ -10,7 +10,7 @@ blue line is the input signal and the orange line is the output signal.
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory]() or clone this repository, and drag the `AutomationStepper.amxd` device into a track in Ableton Live.
+[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v2.amxd) or clone this repository, and drag the `AutomationStepper.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
