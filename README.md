@@ -6,7 +6,7 @@ For example, you can map an LFO outputting a sine wave to this device's input, t
 
 Here is an image Modulation Stepper turning a sine wave into 1/8 note steps. The
 blue line is the input signal and the orange line is the output signal.
-![How it Looks](images/device.png)
+![How it Looks](images/device.gif)
 
 ## Installation
 
