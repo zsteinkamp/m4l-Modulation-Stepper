@@ -1,25 +1,27 @@
-# Automation Stepper
+# Modulation Stepper
 
-This is a Max For Live device that will turn continuous automation input into stair-stepped output.
+This is a Max For Live device that will turn continuous modulation input into stair-stepped output. It's similar to what a bitcrusher does to audio.
 
 For example, you can map an LFO outputting a sine wave to this device's input, then configure the device to generate steps at a tempo-synced or free time interval, automating up to 8 other parameters.
 
-Here is an image AutomationStepper turning a sine wave into 1/8 note steps.
+Here is an image Modulation Stepper turning a sine wave into 1/8 note steps. The
+blue line is the input signal and the orange line is the output signal.
 ![How it Looks](images/device.png)
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-AutomationStepper/tree/main/frozen/) or clone this repository, and drag the `AutomationStepper.amxd` device into a track in Ableton Live.
+[Download the newest .amxd file from the frozen/ directory]() or clone this repository, and drag the `AutomationStepper.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
+* 2022-12-05 [2](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v2.amxd) - Rename to Modulation Stepper; Use integer version numbers.
 * 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-AutomationStepper/raw/main/frozen/AutomationStepper-0.0.1.amxd) - Initial release.
 
 ## Usage
 
-Usually, you would map a MIDI controller or automation source to `Input`. Then choose a step frequency (either in Hz or in note values). You can adjust the smoothing to create a portamento-like effect as the step moves from one value to another.
+Usually, you would map a MIDI controller or modulation source to `Input`. Then choose a step frequency (either in Hz or in note values). You can adjust the smoothing to create a portamento-like effect as the step moves from one value to another.
 
-Use the "Map" button to map the stepped output to another parameter. Click the `[=]` button in the upper left to reveal additional automation destination slots.
+Use the "Map" button to map the stepped output to another parameter. Click the `[=]` button in the upper left to reveal additional modulation destination slots.
 
 ## TODO
 
