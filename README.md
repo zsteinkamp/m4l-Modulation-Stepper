@@ -10,11 +10,12 @@ blue line is the input signal and the orange line is the output signal.
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v2.amxd) or clone this repository, and drag the `AutomationStepper.amxd` device into a track in Ableton Live.
+[Download the .amxd file from the latest release](https://github.com/zsteinkamp/m4l-Modulation-Stepper/releases) or clone this repository, and drag the `AutomationStepper.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
-* 2022-12-05 [2](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v2.amxd) - Rename to Modulation Stepper; Use integer version numbers.
+* 2024-08-17 [v3](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v3.amxd) - Live 12 modulation support; Visual and CPU improvements.
+* 2022-12-05 [v2](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v2.amxd) - Rename to Modulation Stepper; Use integer version numbers.
 * 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-AutomationStepper/raw/main/frozen/AutomationStepper-0.0.1.amxd) - Initial release.
 
 ## Usage
