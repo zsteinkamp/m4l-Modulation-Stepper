@@ -14,6 +14,7 @@ blue line is the input signal and the orange line is the output signal.
 
 ## Changelog
 
+* 2024-10-29 [v4](https://github.com/zsteinkamp/m4l-Modulation-Stepper/releases/download/v4/ModulationStepper-v4.amxd) - Adds non-identifying, non-blocking telemetry on device load.
 * 2024-08-17 [v3](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v3.amxd) - Live 12 modulation support; Visual and CPU improvements.
 * 2022-12-05 [v2](https://github.com/zsteinkamp/m4l-Modulation-Stepper/raw/main/frozen/Modulation%20Stepper%20v2.amxd) - Rename to Modulation Stepper; Use integer version numbers.
 * 2022-04-08 [0.0.1](https://github.com/zsteinkamp/m4l-AutomationStepper/raw/main/frozen/AutomationStepper-0.0.1.amxd) - Initial release.
