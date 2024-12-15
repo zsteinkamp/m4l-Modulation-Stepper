@@ -2,11 +2,9 @@
 
 This is a Max For Live device that will turn continuous modulation input into stair-stepped output. It's similar to what a bitcrusher does to audio.
 
-For example, you can map an LFO outputting a sine wave to this device's input, then configure the device to generate steps at a tempo-synced or free time interval, automating up to 8 other parameters.
-
-Here is an image Modulation Stepper turning a sine wave into 1/8 note steps. The
-blue line is the input signal and the orange line is the output signal.
 ![How it Looks](images/device.gif)
+
+For example, you can map an LFO outputting a sine wave to this device's input, then configure the device to generate steps at a tempo-synced or free time interval, automating up to 8 other parameters.
 
 ## Installation
 
